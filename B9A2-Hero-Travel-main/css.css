@@ -1,0 +1,230 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    font-family: "Mulish", serif;
+}
+.navBar{
+    padding:0px 200px;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: baseline;
+    padding-left: 10px 44px;
+    margin-right: 50px;
+}
+span{
+    color:#ff5400;
+}
+ul{
+    display: flex;
+    align-items: baseline;
+}
+ul li{
+    list-style: none;
+    margin-right: 50px;
+
+}
+li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #474747;
+    justify-content: space-between;
+}
+.trans{
+    background-color: #FFF4F95A;
+    /* border-radius: ;
+    height: ; */
+    align-items: center;
+    width: 800px;
+    height: 84px;
+    margin-left: 150px;
+    margin-right: 106px;
+    margin-top: 48px;
+    margin-bottom: 106px;
+    border-radius: ;
+
+
+
+
+}
+.button{
+    text-align: center;
+    background-color: #FFFFFF;
+    color: #131318;
+    margin: auto;
+    width: 174px;
+    height: 54px;
+    border-radius: 8px;
+    border-color: #FFFFFF;
+    border-color: none;
+    margin-left: 25px;
+}
+.button1{
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin: 15px 15px 15px 20px;
+    padding: 15px 50px 15px 15px;
+    background-color: #ff5400;
+    border: none;
+}
+.full{
+    font-weight: 800;
+    font-size: 20;
+    color: #FFFFFF;
+    background-color: #ff5400;
+    height: 52px;
+    width: 174px;
+    border-radius: 8px;
+    text-align: center;
+    border: none;
+}
+
+.imgtu{
+    border-radius: 16px;
+    height: 550px;
+    width: 540px;
+}
+.fuldesti{
+    text-align: center;
+    
+}
+.desti{
+    font-weight: 800;
+    font-size: 45px;
+    color: #131318;
+    margin-left: 0px;
+}
+.paratu{
+    font-size: 16px;
+    color: #131318b3;
+
+}
+.one{
+    display: flex;
+    margin-right: 135px;
+    margin-left: 135px;
+    
+
+}
+.imgtree{
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 16px;
+    width: 573px;
+    height: 300px;
+
+ background-repeat: no-repeat;
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.malindo{
+    font-weight: 800;
+    font-size: 28px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.two{
+    display: flex;
+}
+.three{
+    display: flex;
+}
+.imgone{
+    background-image: url('Images/Group\ 13\ \(1\)\ \(1\).png');
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1170px;
+    border-radius: 10px;
+    margin: 50px 100px;
+
+}
+.title{
+   text-align: center; 
+   font: size 64px; 
+   font-weight: 800;
+   color: #FFFFFF;
+   margin-top: 106px;
+   justify-content: space-between;
+   padding-top: 106px;
+
+
+}
+.papone{
+    text-align: center;
+    font-size:16px ;
+    color:#FFFFFF ;
+    padding-top: 24px;
+    padding-bottom: 30px;
+}
+.room{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 100px;
+    margin-right: 135px;
+    margin-top: 100px;
+
+}
+.para{
+    text-align: center;
+}
+.parina{
+    font-weight: 800;
+    font-size: 40px;
+}
+.parat{
+    font-size: 16px;
+    color: rgba(19, 19, 24, 0.7);
+    text-align: center;
+}
+.trebox{
+    display: flex;
+}
+.pinkbox{
+    background-color: #fbb563;
+    width: 570px;
+    height: 280px;
+    border-radius: 16px;
+    margin-left: 135px;
+}
+.innarbox{
+    margin: 32px 33px;
+    margin-top: 32px;
+    padding: 30px;
+}
+.hid{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.para{
+    color: #5a5a5d;
+    font-size: 16px;
+}
+.blubox{
+    width: 570px;
+}
+.ara{
+    text-align: center;
+    
+}
+.imo{
+    font-size: 16px;
+    color: #131318;
+    margin-left: 15px;
+    
+}
+
+
